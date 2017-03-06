@@ -1,0 +1,2 @@
+C:\Users\sswin\OneDrive\Documents\Visual Studio 2015\Projects\TypeScriptQuizApp\src\TypeScriptQuizApp\wwwroot\app.js
+C:\Users\sswin\OneDrive\Documents\Visual Studio 2015\Projects\TypeScriptQuizApp\src\TypeScriptQuizApp\wwwroot\app.js.map
